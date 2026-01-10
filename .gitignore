@@ -1,0 +1,6 @@
+# Dataset
+/dataset/
+*.zip
+
+# Model Weights
+*.pth
